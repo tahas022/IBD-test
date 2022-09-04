@@ -1,0 +1,115 @@
+.portfolioContainer {
+  width: auto;
+  height: auto;
+}
+.portTitleHeader {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  height: fit-content;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  top: 650px;
+  bottom: 0px;
+  left: 0px;
+  right: 0;
+  color: black;
+}
+.portMainHeader {
+  margin: 0;
+  padding-top: 50px;
+  position: absolute;
+  text-align: center;
+  font-size: 45px;
+  top: 1300px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.CP1 {
+  object-fit: contain;
+  width: 2000px;
+  height: 380px;
+  margin-top: 200px;
+  margin-left: 0px;
+}
+.CP1Text {
+  margin: 0;
+  padding-right: 250px;
+  position: absolute;
+  height: fit-content;
+  word-wrap: break-word;
+  font-size: 30px;
+  top: 1550px;
+  bottom: 0px;
+  left: 1300px;
+  right: 0;
+  color: black;
+}
+.CP2 {
+  object-fit: contain;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 550px;
+}
+.CP2Text {
+  margin: 0;
+  padding-right: 1300px;
+  position: absolute;
+  height: fit-content;
+  word-wrap: break-word;
+  font-size: 30px;
+  top: 2000px;
+  bottom: 0px;
+  left: 300px;
+  right: 0;
+  color: black;
+}
+.CP3 {
+  object-fit: contain;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 0px;
+}
+.CP3Text {
+  margin: 0;
+  padding-right: 250px;
+  position: absolute;
+  height: fit-content;
+  word-wrap: break-word;
+  font-size: 30px;
+  top: 2350px;
+  bottom: 0px;
+  left: 1400px;
+  right: 0;
+  color: black;
+}
+.CP4 {
+  object-fit: contain;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 550px;
+}
+.CP4Text {
+  margin: 0;
+  padding-right: 1300px;
+  position: absolute;
+  height: fit-content;
+  word-wrap: break-word;
+  font-size: 30px;
+  top: 2650px;
+  bottom: 0px;
+  left: 300px;
+  right: 0;
+  color: black;
+}
+.CPbg {
+  margin: 0;
+  padding: 0;
+  width: 2542px;
+  height: 1172px;
+}

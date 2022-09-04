@@ -1,0 +1,124 @@
+.projectContainer {
+  width: auto;
+  height: auto;
+}
+.projectbg {
+  margin: 0;
+  padding: 0;
+  width: 2542px;
+  height: 1172px;
+}
+.projectbgH {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  height: fit-content;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  top: 650px;
+  bottom: 0px;
+  left: 0px;
+  right: 0;
+  color: black;
+}
+.pheader {
+  margin: 0;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+}
+.pic1 {
+  object-fit: contain;
+  width: 2000px;
+  height: 380px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.pic2 {
+  object-fit: contain;
+  position: relative;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 500px;
+}
+.pic3 {
+  object-fit: contain;
+  position: relative;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 30px;
+}
+.pic4 {
+  object-fit: contain;
+  position: relative;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 500px;
+}
+.pic5 {
+  object-fit: contain;
+  position: relative;
+  width: 2000px;
+  height: 380px;
+  margin-top: -15px;
+  margin-left: 30px;
+}
+.pic1Text {
+  position: absolute;
+  height: fit-content;
+  margin: auto;
+  font-weight: bold;
+  top: 1500px;
+  bottom: 0px;
+  left: 1500px;
+  right: 0;
+  color: purple;
+}
+.pic2Text {
+  position: absolute;
+  height: fit-content;
+  margin: auto;
+  font-weight: bold;
+  top: 1900px;
+  bottom: 0px;
+  left: 800px;
+  right: 0;
+  color: purple;
+}
+.pic3Text {
+  position: absolute;
+  height: fit-content;
+  margin: auto;
+  font-weight: bold;
+  top: 2350px;
+  bottom: 0px;
+  left: 1500px;
+  right: 0;
+  color: purple;
+}
+.pic4Text {
+  position: absolute;
+  height: fit-content;
+  margin: auto;
+  font-weight: bold;
+  top: 2680px;
+  bottom: 0px;
+  left: 800px;
+  right: 0;
+  color: purple;
+}
+.pic5Text {
+  position: absolute;
+  height: fit-content;
+  margin: auto;
+  font-weight: bold;
+  top: 3050px;
+  bottom: 0px;
+  left: 1500px;
+  right: 0;
+  color: purple;
+}
